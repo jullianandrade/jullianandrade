@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jullian! 
-<br/><a href="www.linkedin.com/in/jullian-andrade">Systems Intern</a>, <a href="https://github.com/jullianandrade">Student SOC Volunteer</a>,<a href="https://jullianandrade.github.io/"> Aspiring Cybersecurity Professional</a></h1>
+<br/><a href="www.linkedin.com/in/jullian-andrade">Systems Intern</a>, <a href="https://github.com/jullianandrade">Student</a>,<a href="https://jullianandrade.github.io/"> Aspiring Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
