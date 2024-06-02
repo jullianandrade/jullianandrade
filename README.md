@@ -21,7 +21,7 @@
   - <b>Forensics</b>
     - [Digital Forensics Case Competition 2023 (1st)](https://github.com//forensicsweblink) </b></i>
 
-## Certifications:
+## 📄 Certifications:
 - [Security+](https://github.com/)
 
 <h2> 🤳 Connect with me:</h2>
