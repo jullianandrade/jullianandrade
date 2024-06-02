@@ -12,6 +12,8 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com//EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com//DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com//Key-Logger-With-Email)
+- <b>Wazuh</b>
+  - [Wazuh Lab](https://github.com//)
 - <b>Home Lab</b>
   - [Active Directory Lab](https://github.com//-Lab)
 <h2>⚔️ Past Cyber Competitions:</h2>
